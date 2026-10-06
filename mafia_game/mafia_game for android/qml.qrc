@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>about.qml</file>
+        <file>gameui.qml</file>
+        <file>jroom.qml</file>
+        <file>rules.qml</file>
+        <file>StartUI.qml</file>
+        <file>us_role.qml</file>
+        <file>vote.qml</file>
+        <file>images/735128856_122118382736776700_2754096892861324660_n.jpg</file>
+        <file>images/735577286_122118382532776700_2883574024477408815_n.jpg</file>
+        <file>images/736053905_122118382844776700_1637321274866886842_n.jpg</file>
+        <file>images/736858136_122118382628776700_4273887804627270561_n.jpg</file>
+        <file>images/737774558_122118382526776700_1474392633146894410_n.jpg</file>
+        <file>images/737819474_122118382802776700_1838107492342197626_n.jpg</file>
+        <file>images/738937662_122118382742776700_1428208817051282161_n.jpg</file>
+        <file>images/739762701_122118382634776700_629602115043394480_n.jpg</file>
+        <file>images/740070516_122118382604776700_9212383590004908530_n.jpg</file>
+        <file>images/day.jpg</file>
+        <file>images/image_20261001_081748.jpg</file>
+        <file>images/logo.png</file>
+    </qresource>
+</RCC>
