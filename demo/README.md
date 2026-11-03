@@ -1,0 +1,2 @@
+Embedded Linux & Qt Automotive HMI – Personal Project
+Built minimal Debian 13 (trixie) image, created systemd service for Qt6 QML autoboot on eglfs/linuxfb, reduced boot time from 30s to 6s by removing GNOME and disabling services (bluetooth, cups, avahi). Cross-compiled Qt Quick automotive HMI (Mafia Game) with CMake, handled case-sensitive QML imports and Qt6Quick dependencies
