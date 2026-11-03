@@ -33,16 +33,27 @@ Android arm64-v8a
 JSON
 roomName/
   ├── count: int
+  
   ├── started: 0/1
+  
   ├── isNight: 0/1
+  
   ├── players/{name}: {name, count}
+  
   ├── roles/{name}: string
+  
   ├── chat/{name}: {name, message}
+  
   ├── votes/{name}: int
+  
   ├── killed/{name}: "true"
+  
   └── nightState/
+  
       ├── blocked/{name}: "true"
+      
       ├── saved/{name}: "true"
+      
       └── silenced/{name}: "true"
 
 
@@ -67,6 +78,8 @@ if(m_started == 1){
     m_note = "Game already started! You can't join.";
     return;
 }
+
+// MAFIA GAME - Embedded Linux Support
 
 Embedded Linux & Qt Automotive HMI – Personal Project Built minimal Debian 13 (trixie) image, created systemd service for Qt6 QML autoboot on eglfs/linuxfb, reduced boot time from 30s to 6s by removing GNOME and disabling services (bluetooth, cups, avahi). Cross-compiled Qt Quick automotive HMI (Mafia Game) with CMake, handled case-sensitive QML imports and Qt6Quick dependencies
 
